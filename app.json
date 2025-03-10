@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "react-native-forms",
+    "slug": "react-native-forms",
+    "version": "1.0.0",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "scheme": "myapp"
+  }
+}
